@@ -1,5 +1,7 @@
 *.h linguist-language=Objective-C
 *.m linguist-language=Objective-C
+*.cpp linguist-language=Objective-C
+*.c linguist-language=Objective-C
 
 # Documents
 *.doc    diff=astextplain
