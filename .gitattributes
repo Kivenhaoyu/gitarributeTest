@@ -2,6 +2,7 @@
 *.m linguist-language=Objective-C
 *.cpp linguist-language=Objective-C
 *.c linguist-language=Objective-C
+*.lua linguist-language=Objective-C
 
 # Documents
 *.doc    diff=astextplain
@@ -31,7 +32,6 @@
 *.tif binary
 *.tiff binary
 *.ico binary
-*.lua binary
 # SVG treated as an asset (binary) by default. If you want to treat it as text,
 # comment-out the following line and uncomment the line after.
 *.svg binary
